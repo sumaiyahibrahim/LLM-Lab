@@ -32,7 +32,7 @@ airline-assistant/
    ```bash
    git clone https://github.com/yourusername/LLM-projects.git
    cd LLM-projects/airline-assistant
-
+ 
 2. Create a virtual environment & install dependencies:
 ```bash
 python -m venv venv
