@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+requests
+beautifulsoup4
+=======
+python-dotenv
+requests
+ollama
+>>>>>>> c93754d21bbf18ce61376c44e935c02e71306868

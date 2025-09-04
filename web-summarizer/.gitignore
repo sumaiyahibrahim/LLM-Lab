@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+**/.venv/
+
+# Environment variables
+.env
+**/.env
+
+# Editor & OS
+.vscode/
+
+=======
+.venv/
+.env
+__pycache__/
+*.pyc
+>>>>>>> c93754d21bbf18ce61376c44e935c02e71306868

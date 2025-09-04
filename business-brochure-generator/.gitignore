@@ -1,0 +1,23 @@
+# Python basics
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+
+# Environment / secret keys
+.env
+*.env
+
+
+# PyInstaller
+dist/
+build/
+*.spec
