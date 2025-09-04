@@ -26,3 +26,8 @@ A modular chatbot powered by multiple free LLM APIs. Built with Gradio for real-
 ### 🔹 [studentAssist](studentAssist/)
 An academic assistant chatbot built with OpenRouter + Gradio.  
 Acts as a patient, supportive tutor that explains clearly, guides problem-solving, and makes learning enjoyable.
+
+
+### 🔹 [airline-assistant](airline-assistant/)
+An airline customer support bot.
+Gives polite answers and fetches **ticket prices** using function calling (tools).  
