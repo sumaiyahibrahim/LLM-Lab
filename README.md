@@ -30,4 +30,9 @@ Acts as a patient, supportive tutor that explains clearly, guides problem-solvin
 
 ### 🔹 [airline-assistant](airline-assistant/)
 An airline customer support bot.
-Gives polite answers and fetches **ticket prices** using function calling (tools).  
+Gives polite answers and fetches **ticket prices** using function calling (tools).
+
+
+### 🔹 [image-generator](image-generator/)
+A Gradio-powered app that generates vibrant, pop-art style images using Hugging Face’s Inference API and Stable Diffusion XL.
+
